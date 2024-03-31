@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " N ",
+        "gng",
+        "ctc"
+    ],
+    "key": {
+        "t": {
+            "item": "minecraft:totem_of_undying"
+        },
+        "c": {
+            "item": "minecraft:crying_obsidian"
+        },
+        "g": {
+            "item": "minecraft:golden_apple"
+        },
+        "n": {
+            "item": "minecraft:nether_star"
+        },
+        "N": {
+            "item": "minecraft:netherite_ingot"
+        }
+    },
+    "result": {
+        "item": "minecraft:structure_void",
+        "count": 1
+    }
+}

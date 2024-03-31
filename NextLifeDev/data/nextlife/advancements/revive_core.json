@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "crafted":
+        {
+            "trigger":"minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "nextlife:revive_core"
+            }
+     }
+    },
+    "requirements": [
+       [ 
+        "crafted"
+        ]
+    ],
+    "rewards": {
+        "function": "nextlife:crafted/revive_core"
+    }
+
+}

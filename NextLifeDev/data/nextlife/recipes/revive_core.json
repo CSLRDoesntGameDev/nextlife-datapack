@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "eoE",
+        "odo",
+        "Ere"
+    ],
+    "key": {
+        "d": {
+            "item": "minecraft:dragon_egg"
+        },
+        "r": {
+            "item": "minecraft:respawn_anchor"
+        },
+        "o": {
+            "item": "minecraft:obsidian"
+        },
+        "e": {
+            "item": "minecraft:end_crystal"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}

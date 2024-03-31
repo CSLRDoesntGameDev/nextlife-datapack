@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "crafted":
+        {
+            "trigger":"minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "nextlife:life_stone"
+            }
+     }
+    },
+    "requirements": [
+       [ 
+        "crafted"
+        ]
+    ],
+    "rewards": {
+        "function": "nextlife:crafted/life_stone"
+    }
+
+}
